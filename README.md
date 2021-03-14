@@ -6,4 +6,4 @@ C'est super simple, vous pourrez récupèrer vos articles dans un format json av
 Et pour en ajouter il suffit de faire une requête POST /news/post
 
 # EN QUOI C'EST UTILE ?
-Cela permet d'avoir son sur site la possibilité de mettre des articles. A vous ensuite de créer la partie publication :DD
+Cela permet d'avoir sur son site la possibilité de mettre des articles. A vous ensuite de créer la partie publication :DD
